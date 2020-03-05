@@ -1,0 +1,30 @@
+{
+  "0" : {
+    "_id" : "5973782bdb9a930533b05cb2",
+    "isActive" : правда,
+    "balance" : "$ 1,446.35",
+    "age" : 32,
+    "eyeColor" : "зеленый",
+    "name" : "Логан Келлер",
+    "gender" : "мужской",
+    "company" : "Artiq",
+    "email" : "logankeller@artiq.com",
+    "phone" : "+1 (952) 533-2258",
+    "friends" : [
+    {
+      "id" : 0,
+      "name" : "Колон Салазар"
+    },
+
+    {
+      "id" : 1,
+      "name" : "Французский макнейл"
+    },
+
+    {
+      "id" : 2,
+      "name" : "Кэрол Мартин"
+    }],
+    "favoriteFruit" : "банан"
+  }
+}
