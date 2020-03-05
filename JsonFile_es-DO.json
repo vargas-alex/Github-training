@@ -1,0 +1,30 @@
+{
+  "0" : {
+    "_id" : "5973782bdb9a930533b05cb2",
+    "isActive" : cierto,
+    "balance" : "$ 1,446.35",
+    "age" : 32,
+    "eyeColor" : "verde",
+    "name" : "Logan Keller",
+    "gender" : "masculino",
+    "company" : "ARTIQ",
+    "email" : "logankeller@artiq.com",
+    "phone" : "+1 (952) 533-2258",
+    "friends" : [
+    {
+      "id" : 0,
+      "name" : "Colon Salazar"
+    },
+
+    {
+      "id" : 1,
+      "name" : "Mcneil francés"
+    },
+
+    {
+      "id" : 2,
+      "name" : "Carol Martin"
+    }],
+    "favoriteFruit" : "plátano"
+  }
+}
